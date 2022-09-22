@@ -1,0 +1,11 @@
+print('init.lua loaded')
+
+require("plugin.nvim-tree-config-toqyang")
+require("plugin.nvim-autopairs-config-toqyang")
+require("plugin.lualine-config-toqyang")
+require("plugin.nvim-lsp-installer-config-toqyang")
+require("plugin.lspconfig-config-toqyang")
+require("plugin.luasnip-config-toqyang")
+require("plugin.indent-blackline-config-toqyang")
+require("plugin.nvim-treesitter-config-toqyang")
+require("plugin.lspsaga-config-toqyang")
